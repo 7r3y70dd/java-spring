@@ -12,3 +12,6 @@ Learning java spring
 # [k9s](https://k9scli.io)
 # [Homebrew](https://brew.sh)
 # [Git](https://github.com)
+# Shell
+## [Bash](https://devhints.io/bash)
+## [zsh](https://zsh.sourceforge.io)
