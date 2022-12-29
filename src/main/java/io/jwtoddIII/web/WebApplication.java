@@ -1,4 +1,4 @@
-package io.jwtoddIII.web;
+package io.jwtoddiii.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

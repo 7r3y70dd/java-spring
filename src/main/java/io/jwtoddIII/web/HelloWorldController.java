@@ -1,4 +1,4 @@
-package io.jwtoddIII.web;
+package io.jwtoddiii.web;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
